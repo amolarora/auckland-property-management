@@ -1,0 +1,24 @@
+{
+    "title": "2 bedroom apartment at Santa Rosa",
+    "address": {
+        "street": "29/340 Gulf Harbour Drive",
+        "suburb": "Gulf Harbour ",
+        "city": "Auckland",
+        "postcode": "0930"
+    },
+    "rooms":{
+        "bedrooms": 2,
+        "bathrooms": 1
+    },
+    "property_type": "apartment",
+    "weekly_rent": 450,
+    "tenents": "Upto 5",
+    "smoking": "No Smoking Allowed",
+    "pets": "Pets Allowed",
+    "available_from": "Monday 6th June 2022",
+    "agent_details":{
+        "agent_name": "Rachel Mei",
+        "agent_email": "rachel.mei@aucklandproperty.net"
+    },
+    "description": "This beautiful lovely 2 bedroom apartment offers an open plan kitchen, dining and living area opening out through ranch sliders to the balcony. Take advantage of the wonderful relaxed resort lifestyle this apartment has to offer. This complex is offering swimming pool, tennis court, onsite manager. Only a short stroll to Gulf Harbour Country Club, Gulf Harbour Marina and Village, cafes, restaurants. Donâ€™t miss out! Contact Rachel to view now!"
+}

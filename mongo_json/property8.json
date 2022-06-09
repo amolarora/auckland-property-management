@@ -1,0 +1,25 @@
+{
+    "title": "MISSION BAY",
+    "address": {
+        "street": "1/30K Kempthorne Crescent",
+        "suburb": "Mission Bay",
+        "city": "Auckland",
+        "postcode": "1071"
+    },
+    "rooms":{
+        "bedrooms": 3,
+        "bathrooms": 2
+    },
+    "property_type": "Townhouse",
+    "weekly_rent": 920,
+    "tenents": "Upto 6",
+    "smoking": "No Smoking Allowed",
+    "pets": "Small Pets Allowed",
+    "available_from": "now",
+    "agent_details":{
+        "agent_name": "Kirsty Craig",
+        "agent_email": "kirsty@aucklandproperty.net"
+    },
+    "description": "***Please use EMAIL THE AGENT request below the advertisement to register your interest. *** Convenient location with stunning views of nature reserve and offering the following features: Executive townhouse with elegant finishes and recently completed. – Exterior with wooden walkway with views of natural vegetation leading to front entrance – Security alarm, heat pump, smoke alarms and fully insulated – Master bedroom, with ensuite and walk in wardrobe, Two double bedrooms with built in wardrobes, – Family bathroom with shower, bath and heated towel rails – 4th room could be used a study or work from home office – Upstairs is the spacious and sunny open plan living / dining / kitchen area – Kitchen is fully equipped with modern finishes, dishwasher, waste disposal and 2 wall ovens – Lounge has heat pump for added comfort and leads out to balcony with fantastic views of the surrounding natural vegetation and neighbourhood – Secure off street parking for 2 cars in the basement and with remote access – rent amount includes power and water ***Scroll to the bottom of the page, click “email the agent” or “view their website link” and follow prompts to register ***"
+
+}

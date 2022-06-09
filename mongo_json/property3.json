@@ -1,0 +1,25 @@
+{
+    "title": "Auckland Central - Studio Apartment - Furnished",
+    "address": {
+        "street": "3407/47 Wakefield Street",
+        "suburb": "City Centre (Auckland City)",
+        "city": "Auckland",
+        "postcode": "1010"
+    },
+    "rooms":{
+        "bedrooms": 1,
+        "bathrooms": 1
+    },
+    "property_type": "apartment",
+    "weekly_rent": 310,
+    "tenents": "Upto 3",
+    "smoking": "No Smoking Allowed",
+    "pets": "No Pets Allowed",
+    "available_from": "now",
+    "agent_details":{
+        "agent_name": "Amy Ang",
+        "agent_email": "amy@apm.kiwi"
+    },
+    "description": "Auckland City Centre Ready to move in now, Walking distance to Auckland Hospital. Look no further at this rent, you would pay more on today’s market. Rent $310 per week (includes cold water) Power additional These apartments do not last on the rental market. Situated across from AUT & Auckland University. Studio style furnished apartment with double bed. Kitchen has bar fridge, dishwasher, microwave, oven and hob. Dining table with 2 chairs and a small flat screen TV Washing machine /dryer combined Minutes from Queen Street, buses , English schools, Auckland Hospital, Sky City, and many more training schools. In the heart of Auckland where so much is available. Move in Cost: 4 weeks Bond $1240, 1 week’s rent $310"
+
+}

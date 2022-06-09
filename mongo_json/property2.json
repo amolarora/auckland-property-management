@@ -1,0 +1,25 @@
+{
+    "title":"New Lynn - 3 Bedroom Home",
+    "address": {
+        "street": "3A Copley Street",
+        "suburb": "New Lynn",
+        "city": "Auckland",
+        "postcode": "0600"
+    },
+    "rooms":{
+        "bedrooms": 3,
+        "bathrooms": 1
+    },
+    "property_type": "house",
+    "weekly_rent": 599,
+    "tenents": "Upto 6",
+    "smoking": "No Smoking Allowed",
+    "pets": "Pets Allowed",
+    "available_from": "Friday 17th June 2022",
+    "agent_details":{
+        "agent_name": "Caroline Li",
+        "agent_email": "caroline.li@aucklandproperty.net"
+    },
+    "description": "***EMAIL THE AGENT THROUGH THE AD TO REGISTER FOR A VIEWING TO BE INFORMED, DO NOT RING*** *You MUST register to confirm your attendance at a viewing. This will also enable us to inform you instantly of any changes, updates or cancellations to this viewing.* This is a great house that has been recently renovated featuring 3 bedrooms and 1 bathroom with an open plan living and dining area that flows nicely to a spacious modern kitchen. The property also features a fully fenced private backyard creating a spacious outdoor area for your kids and family. Location is another great feature of this sweet home, handy to Highway 16 & 20, as well as a short drive to Lynn Mall Shopping Centre and other local shops & cafes, and within the walking distance to Copley Reserve. Move in costs: 4 weeks bond plus 1st week rent. No Pets/No Smokers. Please do not enter the premises. ** If there are no registered attendees for a viewing, that particular viewing may be cancelled – so if you wish to attend, please ensure you register by using the EMAIL THE AGENT BUTTON BELOW. We would also suggest that before the viewing, you do a drive past of the property to ascertain the suitability of the area. **"
+
+}

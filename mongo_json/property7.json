@@ -1,0 +1,25 @@
+{
+    "title": "East Tamaki - The 2 bedrooms family home",
+    "address": {
+        "street": "15 Opito Way",
+        "suburb": "East Tamaki",
+        "city": "Auckland",
+        "postcode": "2013"
+    },
+    "rooms":{
+        "bedrooms": 2,
+        "bathrooms": 1
+    },
+    "property_type": "Townhouse",
+    "weekly_rent": 570,
+    "tenents": "Upto 5",
+    "smoking": "No Smoking Allowed",
+    "pets": "Pets Allowed",
+    "available_from": "now",
+    "agent_details":{
+        "agent_name": "Edwin Yu",
+        "agent_email": "Edwin.Yu@aucklandproperty.net"
+    },
+    "description": "****Please register/ login on Trademe or this property page in our company website, then Email the agent to register for a viewing time. Thanks!**** To apply (online application): https://apply.tpsportal.co.nz/6141976? Conveniently located, spacious two level apartment in sought-after location, directly across the road from Botany Town Centre. Zoned Botany Downs Secondary College. The lounge and bedroom face with nice green yard. The bedrooms are good size. The main bathroom is upstairs and there is additional toilet downstairs. The apartment stands out in the complex so enjoy the benefit of windows in bathroom and toilet. You will have your own covered carport plus one car park just outside the backdoor. The complex has shared swimming pool, gym and tennis court plus barbeque and children’s play area (subject to Covid rule and prescribed hours). The maximum number of persons (including any children) permitted to occupy the apartment is 4. Move in cost is 4 weeks bond, 1st week rent in advance. No pets & No Smokers"
+
+}

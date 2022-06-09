@@ -1,0 +1,25 @@
+{
+    "title": "BIRKDALE - 3 Bedroom Home",
+    "address": {
+        "street": "72 Vandeleur Ave",
+        "suburb": "Birkdale",
+        "city": "Auckland",
+        "postcode": "0626"
+    },
+    "rooms":{
+        "bedrooms": 3,
+        "bathrooms": 1
+    },
+    "property_type": "house",
+    "weekly_rent": 590,
+    "tenents": "Upto 6",
+    "smoking": "No Smoking Allowed",
+    "pets": "Pets Allowed",
+    "available_from": "Friday 24th June 2022",
+    "agent_details":{
+        "agent_name": "Rachel Mei",
+        "agent_email": "rachel.mei@aucklandproperty.net"
+    },
+    "description": "Please register on our company website for a viewing time. Thanks! This is nice 3 bed, 1 bath family home located in popular Vandeleur Avenue. It features: The 3 good sized bedrooms ensure everyone can have their own space, and the bathroom and separate toilet, means no one has to wait for a shower! It also comes with a separate room for laundry. Open plan kitchen/dining area leading to a living area. Ranch sliders open up to a spacious deck just perfect for sitting back and relaxing. *Heatpump has already been installed in the living area to keep the winter nice and warm. (The fire place is not to be used) *Gas cooking *Healthy Home compliant This conveniently located home is within close proximity to various parks and reserves and just a stone’s throw to Birkdale Intermediate School and Birkenhead College, as well being in-zone for the highly sought after Verran Primary School. Buses that head to the City Centre and surrounding area frequently stop near by, plus Birkenhead and Glenfield’s major shopping malls are an easy drive away. No pets and smokers. Move in costs: 4 weeks rent as bond and 1 week rent"
+
+}
